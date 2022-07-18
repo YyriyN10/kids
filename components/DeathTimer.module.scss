@@ -1,0 +1,13 @@
+.deathTimer {
+  font-weight: 900;
+  font-size: 34px;
+  line-height: 140%;
+  text-transform: uppercase;
+  padding: 0 10px;
+  color: #000000;
+  background: #e32929;
+  margin-left: 10px;
+  @media screen and (max-width: 567px) {
+    margin-left: 0;
+  }
+}

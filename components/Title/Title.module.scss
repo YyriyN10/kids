@@ -1,0 +1,12 @@
+.title {
+  // font-family: 'e-';
+  text-align: center;
+  font-weight: 700;
+  font-size: calc(var(--index) * 1.83);
+  line-height: 110%;
+  text-transform: uppercase;
+  color: #262626;
+  @media (max-width: 767px) {
+    font-size: calc(var(--index) * 2.4);
+  }
+}

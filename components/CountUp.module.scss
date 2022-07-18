@@ -1,0 +1,33 @@
+.timer {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.item {
+  margin-right: 10px;
+  text-align: center;
+  &:last-child {
+    margin-right: 10px;
+  }
+}
+
+.itemValue {
+  font-size: 28px;
+  font-weight: 900;
+  line-height: 40px;
+  color: #fff;
+}
+
+.itemLabel {
+  font-size: 12px;
+  line-height: 100%;
+  color: #c8c8c8;
+}
+
+@media screen and (max-width: 767px) {
+  .itemValue {
+    font-size: 22px;
+    line-height: 24px;
+  }
+}

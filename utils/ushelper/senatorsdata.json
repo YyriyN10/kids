@@ -1,0 +1,680 @@
+[{
+  "fb": "https://www.facebook.com/mikecrapo",
+  "tw": "mikecrapo",
+  "state": "Idaho",
+  "district": "",
+  "name": "Mike Crapo",
+  "web": "https://www.crapo.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorJimRisch/",
+  "tw": "SenatorRisch",
+  "state": "Idaho",
+  "district": "",
+  "name": "James E. Risch",
+  "web": "https://www.risch.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/grassley",
+  "tw": "chuckgrassley",
+  "state": "Iowa",
+  "district": "",
+  "name": "Chuck Grassley",
+  "web": "https://www.grassley.senate.gov/contact/questions-and-comments"
+}, {
+  "fb": "https://www.facebook.com/senjoniernst",
+  "tw": "SenJoniErnst",
+  "state": "Iowa",
+  "district": "",
+  "name": "Joni Ernst",
+  "web": "https://www.ernst.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/RichardShelby",
+  "tw": "SenShelby",
+  "state": "Alabama",
+  "district": "",
+  "name": "Richard C. Shelby",
+  "web": "https://www.shelby.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorTuberville/",
+  "tw": "sentuberville",
+  "state": "Alabama",
+  "district": "",
+  "name": "Tommy Tuberville",
+  "web": "https://www.tuberville.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenLisaMurkowski/",
+  "tw": "lisamurkowski",
+  "state": "Alaska",
+  "district": "",
+  "name": "Lisa Murkowski",
+  "web": "https://www.murkowski.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenDanSullivan",
+  "tw": "SenDanSullivan",
+  "state": "Alaska",
+  "district": "",
+  "name": "Dan Sullivan",
+  "web": "https://www.sullivan.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorSinema/",
+  "tw": "senatorsinema",
+  "state": "Arizona",
+  "district": "",
+  "name": "Kyrsten Sinema",
+  "web": "https://www.sinema.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/JohnBoozman",
+  "tw": "JohnBoozman",
+  "state": "Arkansas",
+  "district": "",
+  "name": "John Boozman",
+  "web": "https://www.boozman.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorTomCotton",
+  "tw": "SenTomCotton",
+  "state": "Arkansas",
+  "district": "",
+  "name": "Tom Cotton",
+  "web": "https://www.cotton.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/johnbarrasso",
+  "tw": "senjohnbarrasso",
+  "state": "Wyoming",
+  "district": "",
+  "name": "John Barasso",
+  "web": "https://www.barrasso.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/sencynthialummis/",
+  "tw": "SenLummis",
+  "state": "Wyoming",
+  "district": "",
+  "name": "Cynthia M.Lummis",
+  "web": "https://www.lummis.senate.gov/contact/"
+}, {
+  "fb": "",
+  "tw": "",
+  "state": "Wisconsin",
+  "district": "",
+  "name": "Patty Murray",
+  "web": "https://www.murray.senate.gov/write-to-patty/"
+}, {
+  "fb": "",
+  "tw": "SenatorCantwell",
+  "state": "Wisconsin",
+  "district": "",
+  "name": "Maria Cantwell",
+  "web": "https://www.cantwell.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/MarkRWarner",
+  "tw": "MarkWarner",
+  "state": "Virginia",
+  "district": "",
+  "name": "Mark R.Warner",
+  "web": "https://www.warner.senate.gov/public/index.cfm/contact"
+}, {
+  "fb": "https://www.facebook.com/SenatorKaine",
+  "tw": "",
+  "state": "Virginia",
+  "district": "",
+  "name": "Tim Kaine",
+  "web": "https://www.kaine.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/senronjohnson/",
+  "tw": "SenRonJohnson",
+  "state": "Wisconsin",
+  "district": "",
+  "name": "Ron Jonson",
+  "web": "https://www.ronjohnson.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/senatortammybaldwin",
+  "tw": "SenatorBaldwin",
+  "state": "Wisconsin",
+  "district": "",
+  "name": "Tammy Baldwin",
+  "web": "https://www.baldwin.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenBrianSchatz",
+  "tw": "SenBrianSchatz",
+  "state": "Hawaii",
+  "district": "",
+  "name": "Brian Schatz",
+  "web": "https://www.schatz.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/senatorhirono",
+  "tw": "maziehirono",
+  "state": "Hawaii",
+  "district": "",
+  "name": "Mazie R.Hirono",
+  "web": "https://www.hirono.senate.gov/contact/"
+}, {
+  "fb": "",
+  "tw": "",
+  "state": "Delaware",
+  "district": "",
+  "name": "Thomas R.Carper",
+  "web": "https://www.carper.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/senatorchriscoons",
+  "tw": "ChrisCoons",
+  "state": "Delaware",
+  "district": "",
+  "name": "Christopher A. Coons",
+  "web": "https://www.coons.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenOssoff/",
+  "tw": "senossoff",
+  "state": "Georgia",
+  "district": "",
+  "name": "Jon Ossoff",
+  "web": "https://www.ossoff.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorWarnock",
+  "tw": "SenatorWarnock",
+  "state": "Georgia",
+  "district": "",
+  "name": "Raphael G. Warnock",
+  "web": "https://www.warnock.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/JoeManchinIII",
+  "tw": "Sen_JoeManchin",
+  "state": "West Virginia",
+  "district": "",
+  "name": "Joe Manchin, III",
+  "web": "https://www.manchin.senate.gov/public/index.cfm/contact/"
+}, {
+  "fb": "https://www.facebook.com/senshelley",
+  "tw": "sencapito",
+  "state": "West Virginia",
+  "district": "",
+  "name": "Shelley Moore Capito",
+  "web": "https://www.capito.senate.gov/contact/contact-my-office/"
+}, {
+  "fb": "https://www.facebook.com/SenatorDurbin",
+  "tw": "SenatorDurbin",
+  "state": "Illinois",
+  "district": "",
+  "name": "Richard J. Durbin",
+  "web": "https://www.durbin.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenDuckworth",
+  "tw": "SenDuckworth",
+  "state": "Illinois",
+  "district": "",
+  "name": "Tammy Duckworth",
+  "web": "https://www.duckworth.senate.gov/connect/email-tammy/"
+}, {
+  "fb": "https://www.facebook.com/SenatorToddYoung",
+  "tw": "sentoddyoung",
+  "state": "Indiana",
+  "district": "",
+  "name": "Todd Young",
+  "web": "https://www.young.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorBraun/",
+  "tw": "SenatorBraun",
+  "state": "Indiana",
+  "district": "",
+  "name": "Mike Braun",
+  "web": "https://www.braun.senate.gov/contact-mike"
+}, {
+  "fb": "https://www.facebook.com/SenatorFeinstein/",
+  "tw": "senfeinstein",
+  "state": "California",
+  "district": "",
+  "name": "Dianne Feinstein",
+  "web": "https://www.feinstein.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenAlexPadilla/",
+  "tw": "",
+  "state": "California",
+  "district": "",
+  "name": "Alex Padilla",
+  "web": "https://www.padilla.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/jerrymoran",
+  "tw": "jerrymoran",
+  "state": "Kansas",
+  "district": "",
+  "name": "Jerry Moran",
+  "web": "https://www.moran.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/RogerMarshallMD",
+  "tw": "RogerMarshallMD",
+  "state": "Kansas",
+  "district": "",
+  "name": "Roger Marshall",
+  "web": "https://www.marshall.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/mitchmcconnell",
+  "tw": "McConnellPress",
+  "state": "Kentucky",
+  "district": "",
+  "name": "Mitch McConnnell",
+  "web": "https://www.mcconnell.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorRandPaul/",
+  "tw": "senRandPaul",
+  "state": "Kentucky",
+  "district": "",
+  "name": "Rand Paul",
+  "web": "https://www.paul.senate.gov/connect/email-rand"
+}, {
+  "fb": "https://www.facebook.com/senbennetco/",
+  "tw": "SenatorBennet",
+  "state": "Colorado",
+  "district": "",
+  "name": "Michael F.Bennet",
+  "web": "https://www.bennet.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorHick",
+  "tw": "senatorhick",
+  "state": "Colorado",
+  "district": "",
+  "name": "John W. Hickenlooper",
+  "web": "https://www.hickenlooper.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenBlumenthal",
+  "tw": "SenBlumenthal",
+  "state": "Connecticut",
+  "district": "",
+  "name": "Richard Blumental",
+  "web": "https://www.blumenthal.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/senchrismurphy/",
+  "tw": "",
+  "state": "Connecticut",
+  "district": "",
+  "name": "Christopher Murphy",
+  "web": "https://www.murphy.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenBillCassidy/",
+  "tw": "SenBillCassidy",
+  "state": "Louisiana",
+  "district": "",
+  "name": "Bill Cassidy",
+  "web": "https://www.cassidy.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorJohnKennedy/",
+  "tw": "SenJohnKennedy",
+  "state": "Louisiana",
+  "district": "",
+  "name": "John Kennedy",
+  "web": "https://www.kennedy.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/senatorelizabethwarren",
+  "tw": "SenWarren",
+  "state": "Massachusetts",
+  "district": "",
+  "name": "Elizabeth Warren",
+  "web": "https://www.warren.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/EdJMarkey",
+  "tw": "SenMarkey",
+  "state": "Massachusetts",
+  "district": "",
+  "name": "Edward J. Markey",
+  "web": "https://www.markey.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/susancollins",
+  "tw": "SenatorCollins",
+  "state": "Maine",
+  "district": "",
+  "name": "Susan M. Collins",
+  "web": "https://www.collins.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorAngusSKingJr",
+  "tw": "SenAngusKing",
+  "state": "Maine",
+  "district": "",
+  "name": "Angus S. King, Jr.",
+  "web": "https://www.king.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/senatorbencardin",
+  "tw": "SenatorCardin",
+  "state": "Maryland",
+  "district": "",
+  "name": "Benjamin L. Cardin",
+  "web": "https://www.cardin.senate.gov/contact/"
+}, {
+  "fb": "www.facebook.com/chrisvanhollen/",
+  "tw": "",
+  "state": "Maryland",
+  "district": "",
+  "name": "Chris Van Hollen",
+  "web": "https://www.vanhollen.senate.gov/contact/"
+}, {
+  "fb": "",
+  "tw": "SenAmyKlobuchar",
+  "state": "Minnesota",
+  "district": "",
+  "name": "Amy Klobuchar",
+  "web": "https://www.klobuchar.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/USSenTinaSmith/",
+  "tw": "SenTinaSmith",
+  "state": "Minnesota",
+  "district": "",
+  "name": "Tina Smith",
+  "web": "https://www.smith.senate.gov/contact-tina"
+}, {
+  "fb": "https://www.facebook.com/SenatorWicker",
+  "tw": "SenatorWicker",
+  "state": "Mississippi",
+  "district": "",
+  "name": "Roger F. Wicker",
+  "web": "https://www.wicker.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorCindyHydeSmith/",
+  "tw": "SenHydeSmith",
+  "state": "Mississippi",
+  "district": "",
+  "name": "Cindy Hyde-Smith",
+  "web": "https://www.hydesmith.senate.gov/contact-senator"
+}, {
+  "fb": "https://www.facebook.com/SenatorBlunt",
+  "tw": "RoyBlunt",
+  "state": "Missouri",
+  "district": "",
+  "name": "Roy Blunt",
+  "web": "https://www.blunt.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorHawley/",
+  "tw": "",
+  "state": "Missouri",
+  "district": "",
+  "name": "Josh Hawley",
+  "web": "https://www.hawley.senate.gov/contact-senator-hawley"
+}, {
+  "fb": "https://www.facebook.com/SenGaryPeters",
+  "tw": "SenGaryPeters",
+  "state": "Michigan",
+  "district": "",
+  "name": "Gary S. Peters",
+  "web": "https://www.peters.senate.gov/contact/email-gary"
+}, {
+  "fb": "https://www.facebook.com/SenatorStabenow/",
+  "tw": "",
+  "state": "Michigan",
+  "district": "",
+  "name": "Debbie Stadenow",
+  "web": "https://www.stabenow.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/senatortester/",
+  "tw": "@SenatorTester",
+  "state": "Montana",
+  "district": "",
+  "name": "Jon Tester",
+  "web": "https://www.tester.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SteveDainesMT",
+  "tw": "",
+  "state": "Montana",
+  "district": "",
+  "name": "Steve Daines",
+  "web": "https://www.daines.senate.gov/connect/email-steve/"
+}, {
+  "fb": "https://www.facebook.com/senatordebfischer",
+  "tw": "SenatorFischer",
+  "state": "Nebraska",
+  "district": "",
+  "name": "Deb Fischer",
+  "web": "https://www.fischer.senate.gov/contact/"
+}, {
+  "fb": "",
+  "tw": "",
+  "state": "Nebraska",
+  "district": "",
+  "name": "Ben Sasse",
+  "web": "https://www.sasse.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorCortezMasto/",
+  "tw": "sencortezmasto",
+  "state": "Nevada",
+  "district": "",
+  "name": "Catherine Cortez Masto",
+  "web": "https://www.cortezmasto.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenJackyRosen/",
+  "tw": "SenJackyRosen",
+  "state": "Nevada",
+  "district": "",
+  "name": "Jacky Rosen",
+  "web": "https://www.rosen.senate.gov/contact_jacky"
+}, {
+  "fb": "",
+  "tw": "SenSchumer",
+  "state": "New York",
+  "district": "",
+  "name": "Charles E. Schumer",
+  "web": "https://www.schumer.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenKirstenGillibrand",
+  "tw": "gillibrandny",
+  "state": "New York",
+  "district": "",
+  "name": "Kirsten E. Gilliband",
+  "web": "https://www.gillibrand.senate.gov/contact/email-me"
+}, {
+  "fb": "https://www.facebook.com/SenatorShaheen",
+  "tw": "SenatorShaheen",
+  "state": "New Hampshire",
+  "district": "",
+  "name": "Jeanne Shaheen",
+  "web": "https://www.shaheen.senate.gov/contact/contact-jeanne"
+}, {
+  "fb": "https://www.facebook.com/SenatorHassan",
+  "tw": "SenatorHassan",
+  "state": "New Hampshire",
+  "district": "",
+  "name": "Margaret Wood Hassan",
+  "web": "https://www.hassan.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/senatormenendez",
+  "tw": "SenatorMenendez",
+  "state": "New Jersey",
+  "district": "",
+  "name": "Robert Menendez",
+  "web": "https://www.menendez.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorCoryBooker",
+  "tw": "senbooker",
+  "state": "New Jersey",
+  "district": "",
+  "name": "Cory A. Booker",
+  "web": "https://www.booker.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/MartinHeinrich",
+  "tw": "martinheinrich",
+  "state": "New Mexico",
+  "district": "",
+  "name": "Martin Heinrich",
+  "web": "https://www.heinrich.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorLujan",
+  "tw": "SenatorLujan",
+  "state": "New Mexico",
+  "district": "",
+  "name": "Ben Ray Lujan",
+  "web": "https://www.lujan.senate.gov/"
+}, {
+  "fb": "https://www.facebook.com/SenSherrodBrown/",
+  "tw": "SenSherrodBrown",
+  "state": "Ohio",
+  "district": "",
+  "name": "Sherrod Brown",
+  "web": "https://www.brown.senate.gov/contact/"
+}, {
+  "fb": "",
+  "tw": "senrobportman",
+  "state": "Ohio",
+  "district": "",
+  "name": "Rob Portman",
+  "web": "https://www.portman.senate.gov/public/index.cfm/contact/"
+}, {
+  "fb": "https://www.facebook.com/jiminhofe",
+  "tw": "JimInhofe",
+  "state": "Oklahoma",
+  "district": "",
+  "name": "James M.Inhofe",
+  "web": "https://www.inhofe.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorLankford",
+  "tw": "SenatorLankford",
+  "state": "Oklahoma",
+  "district": "",
+  "name": "James Lankford",
+  "web": "https://www.lankford.senate.gov/contact/email"
+}, {
+  "fb": "https://www.facebook.com/senatorronwyden/",
+  "tw": "",
+  "state": "Oregon",
+  "district": "",
+  "name": "Ron Wyden",
+  "web": "https://www.wyden.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/jeffmerkley",
+  "tw": "SenJeffMerkley",
+  "state": "Oregon",
+  "district": "",
+  "name": "Jeff Merkley",
+  "web": "https://www.merkley.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorBobCasey",
+  "tw": "SenBobCasey",
+  "state": "Pennsylvania",
+  "district": "",
+  "name": "Robert P. Casey, Jr",
+  "web": "https://www.casey.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/senatortoomey",
+  "tw": "sentoomey",
+  "state": "Pennsylvania",
+  "district": "",
+  "name": "Patrick J. Toomey",
+  "web": "https://www.toomey.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenJohnThune/",
+  "tw": "senjohnthune",
+  "state": "South Dakota",
+  "district": "",
+  "name": "John Thune",
+  "web": "https://www.thune.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorMikeRounds",
+  "tw": "senatorrounds",
+  "state": "South Dakota",
+  "district": "",
+  "name": "Mike Rounds",
+  "web": "https://www.rounds.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/LindseyGrahamSC",
+  "tw": "LindseyGrahamSC",
+  "state": "South Carolina",
+  "district": "",
+  "name": "Lindsey Graham",
+  "web": "https://www.lgraham.senate.gov/public/index.cfm/e-mail-senator-graham/"
+}, {
+  "fb": "https://www.facebook.com/SenatorTimScott",
+  "tw": "SenatorTimScott",
+  "state": "South Carolina",
+  "district": "",
+  "name": "Tim Scott",
+  "web": "https://www.scott.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorJohnHoeven",
+  "tw": "SenJohnHoeven",
+  "state": "North Dakota",
+  "district": "",
+  "name": "John Hoeven",
+  "web": "https://www.hoeven.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorKevinCramer",
+  "tw": "SenKevinCramer",
+  "state": "North Dakota",
+  "district": "",
+  "name": "Kevin Cramer",
+  "web": "https://www.cramer.senate.gov/contact/contact-kevin"
+}, {
+  "fb": "https://www.facebook.com/SenatorRichardBurr",
+  "tw": "SenatorBurr",
+  "state": "North Carolina",
+  "district": "",
+  "name": "Richard Burr",
+  "web": "https://www.burr.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorThomTillis",
+  "tw": "senthomtillis",
+  "state": "North Carolina",
+  "district": "",
+  "name": "Thom Tillis",
+  "web": "https://www.tillis.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenJackReed/",
+  "tw": "senjackreed",
+  "state": "Rhode Island",
+  "district": "",
+  "name": "Jack Reed",
+  "web": "https://www.reed.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorWhitehouse",
+  "tw": "SenWhitehouse",
+  "state": "Rhode Island",
+  "district": "",
+  "name": "Sheldon Whitehouse",
+  "web": "https://www.whitehouse.senate.gov/contact/email-sheldon"
+}, {
+  "fb": "https://www.facebook.com/marshablackburn/",
+  "tw": "marshablackburn",
+  "state": "Tennessee",
+  "district": "",
+  "name": "Marsha Blackburn",
+  "web": "https://www.blackburn.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorBillHagerty",
+  "tw": "SenatorHagerty",
+  "state": "Tennessee",
+  "district": "",
+  "name": "Bill Hagerty",
+  "web": "https://www.hagerty.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenJohnCornyn/",
+  "tw": "",
+  "state": "Texas",
+  "district": "",
+  "name": "John Cornyn",
+  "web": "https://www.cornyn.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorTedCruz",
+  "tw": "SenTedCruz",
+  "state": "Texas",
+  "district": "",
+  "name": "Ted Crus",
+  "web": "https://www.cruz.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/SenatorMarcoRubio",
+  "tw": "SenRubioPress",
+  "state": "Florida",
+  "district": "",
+  "name": "Marco Rubio",
+  "web": "https://www.rubio.senate.gov/public/index.cfm/contact"
+}, {
+  "fb": "https://www.facebook.com/RickScottSenOffice/",
+  "tw": "SenRickScott",
+  "state": "Florida",
+  "district": "",
+  "name": "Rick Scott",
+  "web": "https://www.scott.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/senatormikelee",
+  "tw": "SenMikeLee",
+  "state": "Utah",
+  "district": "",
+  "name": "Mike Lee",
+  "web": "https://www.lee.senate.gov/contact/"
+}, {
+  "fb": "https://www.facebook.com/senatorromney/",
+  "tw": "SenatorRomney",
+  "state": "Utah",
+  "district": "",
+  "name": "Mitt Romney",
+  "web": "https://www.romney.senate.gov/contact/"
+}]

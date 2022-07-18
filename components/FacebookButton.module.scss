@@ -1,0 +1,26 @@
+.link {
+  background-color: #4267b2;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 56px;
+  border-radius: 40px;
+  padding: 0 30px;
+  font-size: 20px;
+  font-weight: 500;
+  width: 240px;
+  transition: 0.3s;
+  b {
+    margin-right: 0.25rem;
+  }
+  img {
+    max-width: 30px;
+    max-height: 30px;
+    margin-right: 10px;
+  }
+  &:hover {
+    color: #fff;
+    transform: translateY(-5px);
+  }
+}

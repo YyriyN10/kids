@@ -1,0 +1,27 @@
+
+.link {
+  background-color: #1da1f2;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+  border-radius: 8px;
+  padding: 0 30px;
+  font-size: 16px;
+  font-weight: 700;
+  width: 100%;
+  transition: 0.3s;
+  img {
+    margin-right: 10px;
+    max-width: 30px;
+    max-height: 30px;
+  }
+  svg {
+    margin-right: 10px;
+  }
+  &:hover {
+    color: #fff;
+    transform: translateY(-5px);
+  }
+}
